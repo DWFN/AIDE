@@ -24,7 +24,5 @@ The train.py is quite easy to read, I'm sure you can run and test it smoothly.
 We test our code on pycharm at first, so I suspect some part could be missing. If something went wrong, please contact me by email.
 
 
-[cng]: https://github.com/mdeff/cnn_graph
-[arxiv]: https://arxiv.org/abs/1806.02952
-[data_seg]: https://shapenet.cs.stanford.edu/media/shapenetcore_partanno_segmentation_benchmark_v0_normal.zip
-[data_pre]: https://1drv.ms/f/s!Am_uh1epJzCIjQeZviRjHa4fCkFy
+[data_seg]: https://
+[data_pre]: https://
